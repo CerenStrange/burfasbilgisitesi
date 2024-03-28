@@ -1,0 +1,527 @@
+[
+    {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Tabak Kahvaltı",
+        "URUNNOTU": "4 çeşit peynir, yeşil zeytin, siyah zeytin, bal, kaymak, reçel, çikolata, lutenitsa, tereyağı, tahin helva, domates, salatalık, salam, haşlanmış yumurta,sigara böreği 2 adet, patates kızartması ve sınırsız çay ile",
+        "FIYAT": 125
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Sahanda Yumurta",
+        "URUNNOTU": "Yumurta ve tereyağı ile",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Omlet",
+        "URUNNOTU": "Yumurta, kaşar peyniri ve tereyağı ile",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Menemen",
+        "URUNNOTU": "Yumurta, domates, sivri biber, tereyağı ve özel baharat ile",
+        "FIYAT": 65
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Sucuklu Yumurta",
+        "URUNNOTU": "Yumurta, sucuk ve tereyağı ile",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Yoğurt",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Günün Çorbası",
+        "URUNNOTU": "Hergün değişen leziz yöresel çorbalar",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Avcı Böreği",
+        "URUNNOTU": "Krep hamuru, kıyma, soğan, ceviz, domates, salatalık ve mevsim yeşillikleri eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Karışık Arasıcak Tabağı",
+        "URUNNOTU": "Avcı böreği, kalem börek, yıldız sosis, patates kızartması, mantar ve mevsim yeşillikleri eşliğinde",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Çiğ Köfte Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Mevsim Salata",
+        "URUNNOTU": "Kırmızı lahana, havuç, marul, roka, maydanoz, salatalık, domates,  turp, mısır, zeytinyağı ve özel sos ile",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Mevsim Salata Duble",
+        "URUNNOTU": "Kırmızı lahana, havuç, marul, roka, maydanoz, salatalık, domates,  turp, mısır, zeytinyağı ve özel sos ile",
+        "FIYAT": 60
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Çoban Salata",
+        "URUNNOTU": "Salatalık, domates, soğan, biber, kornişon turşu, maydanoz ve özel sos ile",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Çoban Salata Duble",
+        "URUNNOTU": "Salatalık, domates, soğan, biber, kornişon turşu, maydanoz ve özel sos ile",
+        "FIYAT": 65
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Zeytinyağlı Enginar",
+        "URUNNOTU": "Havuç, bezelye, patates ve yeşillikler ile",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Kofik Dolma",
+        "URUNNOTU": "Kuş üzümü, çam fıstığı, pirinç, özel baharatlar ve mevsim yeşillikleri ile",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Taze Fasulye",
+        "URUNNOTU": "Havuç, soğan ve zeytinyağı ile",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Yaprak Sarma",
+        "URUNNOTU": "Asma yaprağı, kuş üzümü, pirinç, çam fıstığı, özel baharatlar ve mevsim yeşillikleri ile",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Soğuk Tabağı",
+        "URUNNOTU": "Patlıcan herse, közlenmiş biber, acılı ezme",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Zeytinyağlı Tabağı",
+        "URUNNOTU": "Enginar, kofik dolma, yaprak sarma, taze fasulye ve mevsim yeşillikleri ile",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Piliç Şiş",
+        "URUNNOTU": "Özel sos ile marine edilmiş piliç, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 110
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Piliç Külbastı",
+        "URUNNOTU": "Özel sos ile marine edilmiş ızgara but, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 110
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Izgara Köfte",
+        "URUNNOTU": "Özel baharatlı köfte, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Kaşarlı Köfte",
+        "URUNNOTU": "Özel baharatlı kaşarlı köfte, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 145
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Karışık Köfte",
+        "URUNNOTU": "Özel baharatlı ızgara köfte, acılı köfte ve kaşarlı köfteden oluşan, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 155
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Kiremitte Köfte",
+        "URUNNOTU": "Güveçte baharatlı köfte, soğan, mantar, sarımsak, domates sos ve kaşar peyniri eşliğinde",
+        "FIYAT": 155
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Dana Antrikot",
+        "URUNNOTU": "Özel marine edilmiş dana antrikot,  tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 220
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Sac Kavurma",
+        "URUNNOTU": "Kuzu eti, soğan, biber, domates, özel baharat ve lavaş eşliğinde",
+        "FIYAT": 230
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Karışık Izgara",
+        "URUNNOTU": "Özel baharatlı köfte, kalem kuzu pirzola, dana antrikot, kangal sucuk, piliç külbastı, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 260
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Lokum",
+        "URUNNOTU": "Dana bonfile, özel tereyağı eşliğinde közlenmiş biber ve domates",
+        "FIYAT": 290
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Kuzu Pirzola",
+        "URUNNOTU": "Tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 280
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Cantık",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 125
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kıymalı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kıymalı & Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 130
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kuşbaşılı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 135
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kuşbaşılı & Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Karışık Pide",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kavurmalı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Trabzon Yağlısı",
+        "URUNNOTU": "Odun ateşinde pişmiş, kaşar peyniri ile",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Tombik Döner",
+        "URUNNOTU": "",
+        "FIYAT": 85
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap",
+        "URUNNOTU": "",
+        "FIYAT": 230
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap Yarım",
+        "URUNNOTU": "",
+        "FIYAT": 170
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap 1,5 Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 320
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap Etibol",
+        "URUNNOTU": "",
+        "FIYAT": 290
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Pideli Köfte",
+        "URUNNOTU": "",
+        "FIYAT": 160
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Pideli Köfte 1,5",
+        "URUNNOTU": "",
+        "FIYAT": 220
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap Menü",
+        "URUNNOTU": "1 Porsiyon+Meşrubat+Tatlı",
+        "FIYAT": 270
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Süt Helvası",
+        "URUNNOTU": "Fındık eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fırın Sütlaç",
+        "URUNNOTU": "Fındık eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Trileçe",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Peynir Tatlısı",
+        "URUNNOTU": "Ceviz eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Ayva Tatlısı ",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Kabak Tatlısı",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "İncir Tatlısı",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Soğuk Baklava",
+        "URUNNOTU": "",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Bardak Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Fincan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 24
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 24
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şalgam Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şıra",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Su 0,5 LT",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Merinospark",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Büyük Su",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      }
+]

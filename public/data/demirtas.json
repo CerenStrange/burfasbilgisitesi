@@ -1,0 +1,555 @@
+[
+    {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Zeytinyağlı Enginar",
+        "URUNNOTU": "Havuç, bezelye, patates ve yeşillikler ile",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Kofik Dolma",
+        "URUNNOTU": "Kuş üzümü, çam fıstığı, pirinç, özel baharatlar ve mevsim yeşillikleri ile",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Taze Fasulye",
+        "URUNNOTU": "Havuç, soğan ve zeytinyağı ile",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Yaprak Sarma",
+        "URUNNOTU": "Asma yaprağı, kuş üzümü, pirinç, çam fıstığı, özel baharatlar ve mevsim yeşillikleri ile",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Soğuk Tabağı",
+        "URUNNOTU": "Patlıcan herse, közlenmiş biber, acılı ezme",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Zeytinyağlı Tabağı",
+        "URUNNOTU": "Enginar, kofik dolma, yaprak sarma, taze fasulye ve mevsim yeşillikleri ile",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Cantık",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 115
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kıymalı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kıymalı & Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 115
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kuşbaşılı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 115
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kuşbaşılı & Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Karışık Pide",
+        "URUNNOTU": "",
+        "FIYAT": 125
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kavurmalı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 125
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Trabzon Yağlısı",
+        "URUNNOTU": "Odun ateşinde pişmiş, kaşar peyniri ile",
+        "FIYAT": 150
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Tombik Döner",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap",
+        "URUNNOTU": "",
+        "FIYAT": 200
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap Yarım",
+        "URUNNOTU": "",
+        "FIYAT": 130
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap 1,5 Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 280
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Bursa Kebap Etibol",
+        "URUNNOTU": "",
+        "FIYAT": 270
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Pideli Köfte",
+        "URUNNOTU": "",
+        "FIYAT": 150
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "DÖNER KEBAP",
+        "URUNADI": "Pideli Köfte 1,5",
+        "URUNNOTU": "",
+        "FIYAT": 210
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Hamburger",
+        "URUNNOTU": "",
+        "FIYAT": 65
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Kalem Börek",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Kaşarlı Tost",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Sucuklu Tost",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Karışık Tost",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Izgara Köfte",
+        "URUNNOTU": "Özel baharatlı köfte, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Karışık Köfte",
+        "URUNNOTU": "Özel baharatlı ızgara köfte, acılı köfte ve kaşarlı köfteden oluşan, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 155
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Dana Antrikot",
+        "URUNNOTU": "Özel marine edilmiş dana antrikot,  tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 220
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Karışık Izgara",
+        "URUNNOTU": "Özel baharatlı köfte, kalem kuzu pirzola, dana antrikot, kangal sucuk, piliç külbastı, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 260
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Kuzu Pirzola",
+        "URUNNOTU": "Tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 280
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Piliç Pirzola",
+        "URUNNOTU": "Özel sos ile marine edilmiş piliç pirzola, tereyağlı pirinç pilavı, sebzeli patates püresi, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Piliç Kanat",
+        "URUNNOTU": "",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Sucuk Izgara",
+        "URUNNOTU": "Özel baharatlı sucuk ızgara, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Yoğurt",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Günün Çorbası",
+        "URUNNOTU": "Hergün değişen leziz yöresel çorbalar",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Avcı Böreği",
+        "URUNNOTU": "Krep hamuru, kıyma, soğan, ceviz, domates, salatalık ve mevsim yeşillikleri eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Karışık Arasıcak Tabağı",
+        "URUNNOTU": "Avcı böreği, kalem börek, yıldız sosis, patates kızartması, mantar ve mevsim yeşillikleri eşliğinde",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Mevsim Salata",
+        "URUNNOTU": "Kırmızı lahana, havuç, marul, roka, maydanoz, salatalık, domates,  turp, mısır, zeytinyağı ve özel sos ile",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Mevsim Salata Duble",
+        "URUNNOTU": "Kırmızı lahana, havuç, marul, roka, maydanoz, salatalık, domates,  turp, mısır, zeytinyağı ve özel sos ile",
+        "FIYAT": 60
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Çoban Salata",
+        "URUNNOTU": "Salatalık, domates, soğan, biber, kornişon turşu, maydanoz ve özel sos ile",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Çoban Salata Duble",
+        "URUNNOTU": "Salatalık, domates, soğan, biber, kornişon turşu, maydanoz ve özel sos ile",
+        "FIYAT": 60
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Bardak Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Fincan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 24
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Hazır Sahlep",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şalgam Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şıra",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Su 0,5 LT",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Büyük Su",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Semaver Çay",
+        "URUNNOTU": "",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Churchill",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 14
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Redbull",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fırın Sütlaç",
+        "URUNNOTU": "Fındık eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Peynir Tatlısı",
+        "URUNNOTU": "Ceviz eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "İncir Tatlısı",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Dana Antrikot (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 550
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Kaşarlı Köfte (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 400
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Köfte (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 380
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Kuzu Pirzola  (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 600
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Piliç Kanat (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 175
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Piliç Pirzola (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 150
+      },
+      {
+        "SUBEADI": "Demirtaş Mesire",
+        "KATEGORIADI": "KASAP ÜRÜNLERİ",
+        "URUNADI": "Sucuk (Kg)",
+        "URUNNOTU": "",
+        "FIYAT": 450
+      }
+]

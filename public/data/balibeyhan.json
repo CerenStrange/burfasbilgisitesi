@@ -1,0 +1,436 @@
+[
+    {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Hızlı Kahvaltı Tabağı",
+        "URUNNOTU": "",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Tabakta Kahvaltı",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Kaşarlı Tost",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Sucuklu Tost",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Karışık Tost",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Hamburger",
+        "URUNNOTU": "",
+        "FIYAT": 65
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Cheeseburger",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Çi Borek",
+        "URUNNOTU": "",
+        "FIYAT": 65
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Çıtır Mantı",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Pizza",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "APERATIFLER",
+        "URUNADI": "Pizza Büyük",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Burfaş Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Muzlu Malaga Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Marshall Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Kestaneli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Çilekli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Markiz Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Mozaik Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Çikolatalı Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Karaorman Meyveli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Profiterollü Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fıstık Rüyası",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Sufle",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma (Top)",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Fıncan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Dibek Kahvesı",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Filtre Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso Duble",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Americano",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Aromalı Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Aromalı Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Macchiato Duble",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sahlep",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frozen",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Şıra",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Boza",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Sade Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 14
+      },
+      {
+        "SUBEADI": "Balibeyhan",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Su",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      }
+]

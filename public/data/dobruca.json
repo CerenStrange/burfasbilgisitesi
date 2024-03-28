@@ -1,0 +1,919 @@
+[
+    {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Avcı Böreği",
+        "URUNNOTU": "Krep hamuru, kıyma, soğan, ceviz, domates, salatalık ve mevsim yeşillikleri eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Trileçe",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Burfaş Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Muzlu Malaga Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Marshall Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Kestaneli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Çilekli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Markiz Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Mozaik Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Kup Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Çikolatalı Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Karaorman Meyveli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Profiterollü Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Tiramisu",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fıstık Rüyası Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma Porsiyon",
+        "URUNNOTU": "3 top dondurmadan oluşmaktadır.",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma (Top)",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Fincan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Filtre Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Americano",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Maccihato",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sahlep",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frozen",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 14
+      },
+      {
+        "SUBEADI": "Dobruca Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Su 0,5 LT",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Açık Büfe Kahvaltı",
+        "URUNNOTU": "Pazar günleri hizmet verilmektedir.",
+        "FIYAT": 250
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Tabak Kahvaltı",
+        "URUNNOTU": "4 çeşit peynir, yeşil zeytin, siyah zeytin, bal, kaymak, reçel, çikolata, lutenitsa, tereyağı, tahin helva, domates, salatalık, salam, haşlanmış yumurta,sigara böreği 2 adet, patates kızartması ve sınırsız çay ile",
+        "FIYAT": 125
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Sahanda Yumurta",
+        "URUNNOTU": "Yumurta ve tereyağı ile",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Omlet",
+        "URUNNOTU": "Yumurta, kaşar peyniri ve tereyağı ile",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Menemen",
+        "URUNNOTU": "Yumurta, domates, sivri biber, tereyağı ve özel baharat ile",
+        "FIYAT": 65
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Sucuklu Yumurta",
+        "URUNNOTU": "Yumurta, sucuk ve tereyağı ile",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "KAHVALTILAR",
+        "URUNADI": "Sahanda Sucuk",
+        "URUNNOTU": "tereyağı ile",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Yoğurt",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Günün Çorbası",
+        "URUNNOTU": "Hergün değişen leziz yöresel çorbalar",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Soğuk Tabağı",
+        "URUNNOTU": "Patlıcan herse, közlenmiş biber, acılı ezme",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Avcı Böreği",
+        "URUNNOTU": "Krep hamuru, kıyma, soğan, ceviz, domates, salatalık ve mevsim yeşillikleri eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Çiğ Köfte Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Mevsim Salata",
+        "URUNNOTU": "Kırmızı lahana, havuç, marul, roka, maydanoz, salatalık, domates,  turp, mısır, zeytinyağı ve özel sos ile",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Mevsim Salata Duble",
+        "URUNNOTU": "Kırmızı lahana, havuç, marul, roka, maydanoz, salatalık, domates,  turp, mısır, zeytinyağı ve özel sos ile",
+        "FIYAT": 60
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Çoban Salata",
+        "URUNNOTU": "Salatalık, domates, soğan, biber, kornişon turşu, maydanoz ve özel sos ile",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SALATALAR",
+        "URUNADI": "Çoban Salata Duble",
+        "URUNNOTU": "Salatalık, domates, soğan, biber, kornişon turşu, maydanoz ve özel sos ile",
+        "FIYAT": 60
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Zeytinyağlı Enginar",
+        "URUNNOTU": "Havuç, bezelye, patates ve yeşillikler ile",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Kofik Dolma",
+        "URUNNOTU": "Kuş üzümü, çam fıstığı, pirinç, özel baharatlar ve mevsim yeşillikleri ile",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Taze Fasulye",
+        "URUNNOTU": "Havuç, soğan ve zeytinyağı ile",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Yaprak Sarma",
+        "URUNNOTU": "Asma yaprağı, kuş üzümü, pirinş, çam fıstığı, özel baharatlar ve mevsim yeşillikleri ile",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ZEYTİNYAĞLILAR",
+        "URUNADI": "Zeytinyağlı Tabağı",
+        "URUNNOTU": "Enginar, kofik dolma, yaprak sarma, taze fasulye ve mevsim yeşillikleri ile",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Piliç Külbastı",
+        "URUNNOTU": "Özel sos ile marine edilmiş ızgara but, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates,mantar ve biber eşliğinde",
+        "FIYAT": 110
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Köri Soslu Piliç",
+        "URUNNOTU": "Güveçte tavuk parçaları, krema ve özel baharat ile",
+        "FIYAT": 110
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Izgara Köfte",
+        "URUNNOTU": "Özel baharatlı köfte, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Sucuk Izgara",
+        "URUNNOTU": "Özel baharatlı sucuk ızgara, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Kaşarlı Köfte",
+        "URUNNOTU": "Özel baharatlı kaşarlı köfte, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 145
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Karışık Köfte",
+        "URUNNOTU": "Özel baharatlı ızgara köfte, acılı köfte ve kaşarlı köfteden oluşan, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 155
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Sac Kavurma",
+        "URUNNOTU": "Kuzu eti, soğan, biber, domates, özel baharat ve lavaş eşliğinde",
+        "FIYAT": 230
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Dobruca Kebabı",
+        "URUNNOTU": "Julyen doğranmış dana antrikot, odun ateşinde pişirilmiş tırnak pide, kapya biber, domates sos, yeşil biber ve yoğurt eşliğinde özel tereyağ ile",
+        "FIYAT": 240
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Karışık Izgara",
+        "URUNNOTU": "Özel baharatlı köfte, kalem kuzu pirzola, dana antrikot, kangal sucuk, piliç külbastı, tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 260
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Lokum",
+        "URUNNOTU": "Dana bonfile, özel tereyağı eşliğinde közlenmiş biber ve domates",
+        "FIYAT": 290
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "ANA YEMEKLER",
+        "URUNADI": "Kuzu Pirzola",
+        "URUNNOTU": "Tereyağlı pirinç pilavı, patates kızartması, közlenmiş domates ve biber eşliğinde",
+        "FIYAT": 280
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Etli Ekmek",
+        "URUNNOTU": "",
+        "FIYAT": 110
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Etli Ekmek Metrelik",
+        "URUNNOTU": "",
+        "FIYAT": 155
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kaşarlı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 125
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kuşbaşılı Pide",
+        "URUNNOTU": "",
+        "FIYAT": 135
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Karışık Pide",
+        "URUNNOTU": "Odun ateşinde pişmiş, kıyma, kuşbaşı et, sucuk ve kaşar ile",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Kiremitte Köfte",
+        "URUNNOTU": "Güveçte baharatlı köfte, soğan, mantar, sarımsak, domates sos ve kaşar peyniri eşliğinde",
+        "FIYAT": 155
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TAŞ FIRIN",
+        "URUNADI": "Güveçte Alabalık",
+        "URUNNOTU": "Taş fırında pişirilmiş, tereyağı, mantar ve kaşar ile",
+        "FIYAT": 160
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Süt Helvası",
+        "URUNNOTU": "Fındık eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Peynir Tatlısı",
+        "URUNNOTU": "Ceviz eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fırın Sütlaç",
+        "URUNNOTU": "Fındık eşliğinde",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "İncir Tatlısı",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Ayva Tatlısı ",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Kabak Tatlısı",
+        "URUNNOTU": "Kaymak ve ceviz eşliğinde",
+        "FIYAT": 55
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma Porsiyon",
+        "URUNNOTU": "3 top dondurmadan oluşmaktadır.",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma (Top)",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Trileçe",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Burfaş Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Muzlu Malaga Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Marshall Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Kestaneli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Çilekli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Markiz Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Mozaik Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Kup Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Çikolatalı Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Karaorman Meyveli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Profiterollü Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Tiramisu",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "PASTALAR",
+        "URUNADI": "Fıstık Rüyası Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Fincan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Sahlep",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şalgam Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şıra",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 14
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Büyük Su",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Dobruca Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Su 0,5 LT",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      }
+]

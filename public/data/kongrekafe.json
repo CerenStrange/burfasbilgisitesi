@@ -1,0 +1,1052 @@
+[
+    {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Kaşarlı Sandviç",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Karışık Sandviç",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Pizza Orta",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma (Top)",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Burfaş Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fıstık Rüyası",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Fincan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Americano",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Sade Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 14
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Su",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Kongre Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Redbull",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Espresso (B)",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Espresso",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Americano (B)",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Americano",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Filtre Kahve (B)",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Filtre Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Latte (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Latte",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Cappuccino (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Cappuccino",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Flat White (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Flat White",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Latte Macc. (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Latte Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "White Mocha (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "White Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Caramel Macc. (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Caramel Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Mocha (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Chai Tea Latte (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Sıcak Çikolata (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Beyaz çikolata (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Chai Tea Latte",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Beyaz çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Pumpkin Spice Latte",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Pumpkin Spice Latte (B)",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Sweet Berry Latte",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Sweet Berry Latte (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Caffe Biscuit",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Caffe Biscuit (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Toffee Nut Latte",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Toffee Nut Latte (B)",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Orange Latte",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Orange Latte (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Red Eye",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Red Eye (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Duble Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Salep",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Salep (B)",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Burfaş Türk Kahvesi 100gr",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Burfaş Türk Kahvesi 250gr",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Extra Süt",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Extra Sos",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Extra Shot",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SICAK KAHVE",
+        "URUNADI": "Extra Şurup",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Americano",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Filtre Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Cappuccino",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Latte",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice White Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Chai Tea Latte",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Latte Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Caramel Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Ice Flat White",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Chocolate Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "Caramel Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SOĞUK KAHVE",
+        "URUNADI": "White C. Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Yeşil Çay",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Yaseminli Yeşil Çay",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Elma & Tarçın Çayı",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Kuşburnu",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Karışık Meyve",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Çilek Çayı",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "ÇAYLAR",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Çilekli Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Hibiscus Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Ice Hibiscus",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Ice Cool Lime",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Yaban Mersini Bubble Tea",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Yeşil Elma Bubble Tea",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Çilek Bubble Tea",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Bodrum Mandalinası",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Su",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "FRESH İÇECEKLER",
+        "URUNADI": "Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "MILKSHAKE",
+        "URUNADI": "Vanilya Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "MILKSHAKE",
+        "URUNADI": "Karamel Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "MILKSHAKE",
+        "URUNADI": "Çilekli Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "MILKSHAKE",
+        "URUNADI": "Çikolatalı Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Kaşar Pey. Poğaça",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Beyaz Pey. Poğaça",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Dereotlu Pey. Poğaça",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Zeytinli Açma",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Patatesli Pey. Örgü Açma",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Kaşar Pey. Tost",
+        "URUNNOTU": "",
+        "FIYAT": 38
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Karışık Tost",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Üç Pey. Tost",
+        "URUNNOTU": "",
+        "FIYAT": 42
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Üç Pey. Bagel",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Dana Jam Kaş. Pey. Açma Sand.",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Ezine Pey.  Sand.",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Tavuk FajitaSand.",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Dana Jam. Kaş. Pey. Sand.",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Kavurmalı Kaş. Sand.",
+        "URUNNOTU": "",
+        "FIYAT": 69
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "SANDVİÇLER",
+        "URUNADI": "Dönerli Sand.",
+        "URUNNOTU": "",
+        "FIYAT": 69
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "CHEESECAKE",
+        "URUNADI": "Fram. Swirl Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 59
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "CHEESECAKE",
+        "URUNADI": "Limonlu Swirl Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 59
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "CHEESECAKE",
+        "URUNADI": "Karamelli Swirl Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 59
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "CHEESECAKE",
+        "URUNADI": "Creamy Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 59
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "CHEESECAKE",
+        "URUNADI": "Çiko. Marble Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 59
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Kara Orman Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Tiramisu Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Elmalı Tart",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Çikolatalı Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Kahveli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 49
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Havuçlu Kek",
+        "URUNNOTU": "",
+        "FIYAT": 38
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Limonlu Kek",
+        "URUNNOTU": "",
+        "FIYAT": 38
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Kakaolu  Kek",
+        "URUNNOTU": "",
+        "FIYAT": 38
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Çikolatalı Browni",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Cho. Cherry Muffin",
+        "URUNNOTU": "",
+        "FIYAT": 38
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Karamelli Fındıklı Muffin",
+        "URUNNOTU": "",
+        "FIYAT": 38
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Çikolata Parçalı Cookie",
+        "URUNNOTU": "",
+        "FIYAT": 34
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Çikolatalı Cookie",
+        "URUNNOTU": "",
+        "FIYAT": 34
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Cup Browni",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Cup Mini C. Çikolatalı",
+        "URUNNOTU": "",
+        "FIYAT": 39
+      },
+      {
+        "SUBEADI": "Kongre Kafe Yeni",
+        "KATEGORIADI": "PASTA",
+        "URUNADI": "Cup Mini C. Çiko. Parçalı",
+        "URUNNOTU": "",
+        "FIYAT": 39
+      }
+]

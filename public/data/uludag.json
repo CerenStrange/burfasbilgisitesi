@@ -1,0 +1,779 @@
+[
+    {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Karışık Tost",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Kaşarlı Tost",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Pizza Tost",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kaşarlı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kuşbaşılı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 200
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kıymalı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Karışık Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 220
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Pastırmalı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 240
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kavurmalı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 240
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİZZA",
+        "URUNADI": "Pizza Karışık Küçük",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "PİZZA",
+        "URUNADI": "Pizza Karışık Büyük",
+        "URUNNOTU": "",
+        "FIYAT": 250
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Burfaş Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Muzlu Malaga Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Marshall Cake",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Kestaneli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Çilekli Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Mozaik Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Cheesecake",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fıstık Rüyası",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Baklava",
+        "URUNNOTU": "Havuç dilim baklava",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fıstıklı Kadayıf",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Dibek Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sahlep",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Filtre Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Americano",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Maccihato",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "İlave Aroma",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Sade Soda",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Churchill",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frozen",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Su 0,5 LT",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Portakal Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Redbull",
+        "URUNNOTU": "",
+        "FIYAT": 75
+      },
+      {
+        "SUBEADI": "Uludağ Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Limonata Şişe",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Elma Dilim Patates",
+        "URUNNOTU": "",
+        "FIYAT": 90
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Humus",
+        "URUNNOTU": "",
+        "FIYAT": 100
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Patlıcan Salatası",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BURGERLER",
+        "URUNADI": "Lokum Burger",
+        "URUNNOTU": "120 gr dana bontfile, turşu, karamelize soğan, şili sos ve patates kızartmasi esliginde",
+        "FIYAT": 300
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BURGERLER",
+        "URUNADI": "Burfaş Special Burger",
+        "URUNNOTU": "120 gr köfte, patates kızartmasi esliginde",
+        "FIYAT": 250
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BURGERLER",
+        "URUNADI": "Çocuk Burger",
+        "URUNNOTU": "60 gr köfte, patates kızartmasi esliginde",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BURGERLER",
+        "URUNADI": "Piliç Burger",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Günün Çorbası",
+        "URUNNOTU": "",
+        "FIYAT": 60
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Uludağ Salata",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Uludağ Salata Duble",
+        "URUNNOTU": "",
+        "FIYAT": 120
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Yoğurt",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BAŞLANGIÇLAR",
+        "URUNADI": "Pilav",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BİFTEKLER",
+        "URUNADI": "Lokum (kg)",
+        "URUNNOTU": "Roka, fesleğen sos ve krema eşliğinde",
+        "FIYAT": 1700
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BİFTEKLER",
+        "URUNADI": "Bonfile Izgara (kg)",
+        "URUNNOTU": "",
+        "FIYAT": 1700
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BİFTEKLER",
+        "URUNADI": "T-Bone Steak (kg)",
+        "URUNNOTU": "",
+        "FIYAT": 1800
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "BİFTEKLER",
+        "URUNADI": "Dallas Steak (kg)",
+        "URUNNOTU": "",
+        "FIYAT": 1800
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KEBAPLAR",
+        "URUNADI": "Bursa Kebabı ",
+        "URUNNOTU": "",
+        "FIYAT": 300
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KEBAPLAR",
+        "URUNADI": "Bursa Kebabı 1.5 Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 400
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KEBAPLAR",
+        "URUNADI": "Bursa Kebap Eti Bol",
+        "URUNNOTU": "",
+        "FIYAT": 400
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KÖFTELER",
+        "URUNADI": "Burfaş Köfte",
+        "URUNNOTU": "",
+        "FIYAT": 220
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KÖFTELER",
+        "URUNADI": "Kaşarlı Köfte",
+        "URUNNOTU": "",
+        "FIYAT": 230
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KÖFTELER",
+        "URUNADI": "Sucuk Izgara",
+        "URUNNOTU": "",
+        "FIYAT": 240
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KÖFTELER",
+        "URUNADI": "Karışık Izgara",
+        "URUNNOTU": "",
+        "FIYAT": 380
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KUZULAR",
+        "URUNADI": "Kuzu Pirzola (kg)",
+        "URUNNOTU": "",
+        "FIYAT": 1700
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "KUZULAR",
+        "URUNADI": "Kuzu Şiş (kg)",
+        "URUNNOTU": "",
+        "FIYAT": 1500
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kaşarlı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kıymalı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kuşbaşılı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 200
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Karışık Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 220
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Pastırmalı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 240
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİDELER",
+        "URUNADI": "Kavurmalı Pide",
+        "URUNNOTU": "Pişirme süresi yaklaşık 20 dakikadır",
+        "FIYAT": 240
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİLİÇLER",
+        "URUNADI": "Piliç Izgara",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİLİÇLER",
+        "URUNADI": "Piliç Kanat",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİLİÇLER",
+        "URUNADI": "Piliç Şiş",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİLİÇLER",
+        "URUNADI": "Piliç Şinitzel",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİZZA",
+        "URUNADI": "Pizza Karışık Küçük",
+        "URUNNOTU": "",
+        "FIYAT": 180
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "PİZZA",
+        "URUNADI": "Pizza Karışık Büyük",
+        "URUNNOTU": "",
+        "FIYAT": 250
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şalgam",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Şıra",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Ayran",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Sade Soda",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Su 0,5 LT",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 20
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "SICAK SOĞUK İÇECEKLER",
+        "URUNADI": "Limonata Şişe",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Sütlaç",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Süt Helvası",
+        "URUNNOTU": "",
+        "FIYAT": 70
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Baklava",
+        "URUNNOTU": "Havuç dilim baklava",
+        "FIYAT": 140
+      },
+      {
+        "SUBEADI": "Uludağ Restoran",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Fıstıklı Kadayıf",
+        "URUNNOTU": "",
+        "FIYAT": 140
+      }
+]

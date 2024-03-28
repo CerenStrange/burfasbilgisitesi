@@ -1,0 +1,317 @@
+[
+    {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Patates Kızartması",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Kaşarlı Tost",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Sucuklu Tost",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "APERATİFLER",
+        "URUNADI": "Karışık Tost",
+        "URUNNOTU": "",
+        "FIYAT": 50
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma Porsiyon",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Dondurma (Top)",
+        "URUNNOTU": "",
+        "FIYAT": 15
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "TATLILAR",
+        "URUNADI": "Special Pasta",
+        "URUNNOTU": "",
+        "FIYAT": 80
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Çay",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Fıncan Çay",
+        "URUNNOTU": "",
+        "FIYAT": 16
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Türk Kahvesi",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Hazır Kahve Sütlü",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Bitki Çayı",
+        "URUNNOTU": "French Press",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Dibek Kahvesı",
+        "URUNNOTU": "",
+        "FIYAT": 30
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sıcak Çikolata",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso Duble",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Americano",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Aromalı Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Aromalı Cappucino",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Macchiato",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Karamel Maccihato",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Sahlep",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Affagato",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Espresso Con Panna",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Lungo",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SICAK İÇECEKLER",
+        "URUNADI": "Filtre Kahve",
+        "URUNNOTU": "",
+        "FIYAT": 40
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Kola",
+        "URUNNOTU": "SARIYER",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Portakallı Gazoz",
+        "URUNNOTU": "ULUDAĞ",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ice Tea",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyve Suyu",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Gazoz",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Ev Yapımı Limonata",
+        "URUNNOTU": "",
+        "FIYAT": 35
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frappe",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Frozen",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Milkshake",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Buzlu Cafe Latte",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Buzlu Mocha",
+        "URUNNOTU": "",
+        "FIYAT": 45
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Churchill",
+        "URUNNOTU": "",
+        "FIYAT": 25
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Sade Soda",
+        "URUNNOTU": "",
+        "FIYAT": 10
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Meyveli Soda",
+        "URUNNOTU": "",
+        "FIYAT": 14
+      },
+      {
+        "SUBEADI": "Ertuğrulbey Meydan Kafe",
+        "KATEGORIADI": "SOĞUK İÇECEKLER",
+        "URUNADI": "Su",
+        "URUNNOTU": "",
+        "FIYAT": 5
+      }
+]
